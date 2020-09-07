@@ -33,8 +33,6 @@ return false;
 
 int main(){ 
 
-int i, j; 
-
 char game[3][3] = {' '}; // Tic-tac-toe 
 
 char player1 = 'X'; 
