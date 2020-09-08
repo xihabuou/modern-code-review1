@@ -76,7 +76,7 @@ break; // need to terminate the problem
 } 
 
 } 
-
+// need a correct conditional statement
 cout << "Tie!" << endl; 
 
 // show the game to console 
